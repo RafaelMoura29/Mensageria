@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GvqC6GzIQTCK3x8yHC7DSbNLbS9sNJb82bFDQf703ig=",
+  "Source": "MassTransit.Marketing.API",
+  "BasePath": "_content/MassTransit.Marketing.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

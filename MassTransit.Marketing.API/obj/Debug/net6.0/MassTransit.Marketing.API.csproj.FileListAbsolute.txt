@@ -1,0 +1,90 @@
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\appsettings.json
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\MassTransit.Marketing.API.exe
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\MassTransit.Marketing.API.deps.json
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\MassTransit.Marketing.API.runtimeconfig.json
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\MassTransit.Marketing.API.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\MassTransit.Marketing.API.pdb
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\MassTransit.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\MassTransit.Abstractions.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\MessagingEvents.Shared.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\bin\Debug\net6.0\MessagingEvents.Shared.pdb
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\MassTransit.Marketing.API.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\MassTransit.Marketing.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\MassTransit.Marketing.API.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\MassTransit.Marketing.API.AssemblyInfo.cs
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\MassTransit.Marketing.API.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\MassTransit.Marketing.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\MassTransit.Marketing.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\staticwebassets\msbuild.MassTransit.Marketing.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\staticwebassets\msbuild.build.MassTransit.Marketing.API.props
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MassTransit.Marketing.API.props
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MassTransit.Marketing.API.props
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\scopedcss\bundle\MassTransit.Marketing.API.styles.css
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\MassTransit.Marketing.API.csproj.CopyComplete
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\MassTransit.Marketing.API.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\refint\MassTransit.Marketing.API.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\MassTransit.Marketing.API.pdb
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\MassTransit.Marketing.API.genruntimeconfig.cache
+C:\Users\rafae\source\repos\RabbitMQClient.Console\RabbitMQClient.Marketing.API - Copia\obj\Debug\net6.0\ref\MassTransit.Marketing.API.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\MassTransit.Marketing.API.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\MassTransit.Marketing.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\MassTransit.Marketing.API.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\MassTransit.Marketing.API.AssemblyInfo.cs
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\MassTransit.Marketing.API.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\MassTransit.Marketing.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\MassTransit.Marketing.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\MassTransit.Marketing.API.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\refint\MassTransit.Marketing.API.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\MassTransit.Marketing.API.pdb
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\appsettings.json
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\MassTransit.Marketing.API.exe
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\MassTransit.Marketing.API.deps.json
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\MassTransit.Marketing.API.runtimeconfig.json
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\MassTransit.Marketing.API.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\MassTransit.Marketing.API.pdb
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\MassTransit.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\MassTransit.Abstractions.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\MessagingEvents.Shared.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\bin\Debug\net6.0\MessagingEvents.Shared.pdb
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\staticwebassets\msbuild.MassTransit.Marketing.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\staticwebassets\msbuild.build.MassTransit.Marketing.API.props
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MassTransit.Marketing.API.props
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MassTransit.Marketing.API.props
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\scopedcss\bundle\MassTransit.Marketing.API.styles.css
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\MassTransit.Marketing.API.csproj.CopyComplete
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\MassTransit.Marketing.API.genruntimeconfig.cache
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MassTransit.Marketing.API\obj\Debug\net6.0\ref\MassTransit.Marketing.API.dll

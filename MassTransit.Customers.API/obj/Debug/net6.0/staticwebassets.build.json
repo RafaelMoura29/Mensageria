@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kLz3JVF6I5oWyP7tR8Eo0GKJqR/WUKThgXAftVJgepQ=",
+  "Source": "MassTransit.Customers.API",
+  "BasePath": "_content/MassTransit.Customers.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

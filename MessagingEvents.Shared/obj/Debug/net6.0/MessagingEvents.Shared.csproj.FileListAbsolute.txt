@@ -1,0 +1,12 @@
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MessagingEvents.Shared\bin\Debug\net6.0\MessagingEvents.Shared.deps.json
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MessagingEvents.Shared\bin\Debug\net6.0\MessagingEvents.Shared.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MessagingEvents.Shared\bin\Debug\net6.0\MessagingEvents.Shared.pdb
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MessagingEvents.Shared\obj\Debug\net6.0\MessagingEvents.Shared.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MessagingEvents.Shared\obj\Debug\net6.0\MessagingEvents.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MessagingEvents.Shared\obj\Debug\net6.0\MessagingEvents.Shared.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MessagingEvents.Shared\obj\Debug\net6.0\MessagingEvents.Shared.AssemblyInfo.cs
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MessagingEvents.Shared\obj\Debug\net6.0\MessagingEvents.Shared.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MessagingEvents.Shared\obj\Debug\net6.0\MessagingEvents.Shared.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MessagingEvents.Shared\obj\Debug\net6.0\refint\MessagingEvents.Shared.dll
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MessagingEvents.Shared\obj\Debug\net6.0\MessagingEvents.Shared.pdb
+C:\Users\rafae\source\repos\RabbitMQClient.Console\MessagingEvents.Shared\obj\Debug\net6.0\ref\MessagingEvents.Shared.dll
